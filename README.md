@@ -17,7 +17,7 @@ a workaround to address the fact that Python ctypes does not have a built in enu
 class.  
 
 
-2013 June 6 -- Initial Release
+2013 June 26 -- Initial Release
 ------------------------------
 Main.py
 PiTypes.py
